@@ -47,7 +47,7 @@
 	</tbody>
 </table>
 
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 Interested Tools and Languages:
 
 <table>
     <tbody>
