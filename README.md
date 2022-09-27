@@ -6,11 +6,12 @@
 
 ## 📖 About me
 
-* 💻 I'm a data scientist and ml consultant @ EY 
-* 📱 I build, deploy and manage ML solutions
+* 💻 I'm a data scientist and ml consultant @ EY
+* 📱 Experience and interest in MLOps
 * 🎓 MSc. Data and Computer Science + BSc. Physics
-* 🏃 I have an interest in films, chess and running
 * 🔥 Frequently attend in-person ML/data science events in Dublin
+* 🏃 I have an interest in films, chess and running
+
 
 <p align="left">
   <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
