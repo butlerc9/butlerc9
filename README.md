@@ -162,40 +162,6 @@
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
 
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🎉 Merged PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. ❗️ Closed issue [#42](https://github.com/DenverCoder1/jct-discord-bot/issues/42) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 💪 Opened PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-<!--END_SECTION:activity-->
-
-</details>
------
-Credits: [DenverCoder1](https://github.com/DenverCoder1)
-
-Last Edited on: 15/01/2021
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/8aUF3I4EttyPIXDIfz/giphy.gif" />
-</p>
-
-- 👋 Hi, I’m Cormac
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... MLOps, Machine Learning, Web Scraping, Data Engineering, and Statistics
-- 💞️ I’m looking to collaborate on ... End-to-end data science initiatives
-- 📫 How to reach me ... https://www.linkedin.com/in/cormac-butler/
-
-<!---
-butlerc9/butlerc9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
   <img src="https://media.giphy.com/media/fPI2ymej8ZEBI332VN/giphy.gif" />
