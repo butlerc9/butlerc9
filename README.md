@@ -18,43 +18,41 @@
     <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
 
-## 📘 My top open source projects
+## 📘 My Top Repositories
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
+<table style="width: 50%">
+	<colgroup>
+		<col span="1" style="width: 20%;" />
+		<col span="1" style="width: 60%;" />
+		<col span="1" style="width: 20%;" />
+	</colgroup>
+	<thead align="center">
+		<tr border:="">
+			<td><b>📘 Project</b></td>
+			<td><img alt="📝" class="emoji" draggable="false" role="img" src="https://s.w.org/images/core/emoji/13.0.1/svg/1f4dd.svg" style="outline: 0px; box-sizing: border-box; max-width: 100%; color: rgb(26, 26, 26); font-family: Arial, Helvetica, sans-serif; font-size: 18px; padding: 0px !important; margin: 0px 0.07em !important; border: none !important; height: 1em !important; display: inline !important; vertical-align: -0.1em !important; box-shadow: none !important; width: 1em !important; background-image: none !important; background-position: initial !important; background-size: initial !important; background-repeat: initial !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;" /><b>&nbsp;Description</b></td>
+			<td>
+			<h2 style="margin: 0px 0px 10px; font-weight: 600; font-size: 18px; color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif; text-align: center;"><span style="display: inline-block; font-size: 15px; white-space: nowrap; font-weight: 400; font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Noto Color Emoji&quot;, &quot;Android Emoji&quot;, &quot;EmojiOne Mozilla&quot;, &quot;Twemoji Mozilla&quot;, &quot;Noto Emoji&quot;, &quot;Segoe UI Symbol&quot;, EmojiSymbols; line-height: initial;">⚙️&nbsp;</span><b style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;trebuchet ms&quot;; font-size: 13px;">Technologies</b></h2>
+			</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="https://github.com/butlerc9/reproducible_research_repo"><b>Reproducible ML Research</b></a></td>
+			<td><p>Project and environment template allowing for fast, reproducible data science work</p>
+			</td>
+			<td>Docker, JupyterLab, Python</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/butlerc9/ising-model-sudoku-simulation"><b>Simulated Annealing of Sudoku and Ferromagnets</b></a></td>
+			<td>Project for college which ended up becoming final end of year mandatory project. As reflected by the yearly spikes and clones of the repo. Reach out with any Qs!</td>
+			<td>Python</td>
+		</tr>
+		<tr>
+			<td><b>Kaggle Competitions</b></td>
+			<td>Entered and have notebooks for many kaggle competitons using my reprodicible research template</td>
+			<td>Python</td>
+		</tr>
+	</tbody>
 </table>
 
 
