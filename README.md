@@ -20,11 +20,11 @@
 
 ## 📘 My Top Repositories
 
-<table style="width: 50%">
+<table style="width: 30%">
 	<colgroup>
-		<col span="1" style="width: 20%;" />
-		<col span="1" style="width: 60%;" />
-		<col span="1" style="width: 20%;" />
+		<col span="1" style="width: 10%;" />
+		<col span="1" style="width: 10%;" />
+		<col span="1" style="width: 10%;" />
 	</colgroup>
 	<thead align="center">
 		<tr border:="">
