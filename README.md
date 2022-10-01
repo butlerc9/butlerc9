@@ -47,38 +47,6 @@
 	</tbody>
 </table>
 
-## 👨‍💻 Interested Tools and Languages:
-
-<table>
-    <tbody>
-        <tr>
-            <td><a href="#"><img alt="Python" title="Python" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="SQL" title="SQL" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
-                        src="https://i.imgur.com/eO5z1xV.png" /></a></td>
-            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://i.imgur.com/DZgetVv.png" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
-                        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
-            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
-                        src="https://i.imgur.com/UfBWFbP.png" /></a></td>
-        </tr>
-    </tbody>
-</table>
-
-
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
-
---->
 <p align="center">
   <img src="https://media.giphy.com/media/fPI2ymej8ZEBI332VN/giphy.gif" />
 </p>
