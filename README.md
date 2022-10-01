@@ -29,7 +29,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td><a href="https://github.com/butlerc9/reproducible_research_repo"><b>Reproducible ML Research</b></a></td>
+			<td><a href="https://github.com/butlerc9/reproducible_research_repo"><b>Reproducible Data Science Research</b></a></td>
 			<td><p>Project and environment template allowing for fast, reproducible data science work</p>
 			</td>
 			<td>Docker, JupyterLab, Python</td>
