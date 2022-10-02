@@ -6,11 +6,11 @@
 
 ## 📖 About Me
 
-* 💻 I'm a Data Scientist and ML Consultant @ EY
-* 📱 I have an interest and experience in ML, data engineering, data science and business intelligence
-* 🎓 MSc. Data and Computer Science + BSc. Physics
-* 🔥 Frequently Attend In-Person ML/Data Science Events in Dublin
-* 🏃 I have an interest in Films, Chess and Running
+* 💻 I'm a data scientist and ml consultant @ EY
+* 📱 Interests and experience in ml, data engineering, data science and business intelligence
+* 🎓 MSc. data and computer science + BSc. physics
+* 🔥 Frequently attend in-person ml/data science events in dublin
+* 🏃 I have an interest in films, chess and running
 
 ## 📘 My Top Repositories
 
