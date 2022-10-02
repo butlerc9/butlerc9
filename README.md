@@ -30,7 +30,7 @@
 	<tbody>
 		<tr>
 			<td><a href="https://github.com/butlerc9/Docker-Data-Science"><b>Docker Data Science</b></a></td>
-			<td><p>Project and environment template allowing for fast, reproducible data science work</p>
+			<td><p>Docker-Data-Science is a template repository for python data science/ml/stats projects. This template is beginner friendly, configurable and can allow anybody to start creating, building and sharing their projects in a reproducible and deployable form.</p>
 			</td>
 			<td>Docker, JupyterLab, Python</td>
 		</tr>
