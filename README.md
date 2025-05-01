@@ -6,7 +6,7 @@
 
 ## 📖 About Me
 
-* 💻 I'm a data scientist and ml consultant @ EY
+* 💻 I'm a data scientist @ CarTrawler
 * 📱 Interests and experience in ml, data engineering, data science and business intelligence
 * 🎓 MSc. data and computer science + BSc. physics
 * 🔥 Frequently attend in-person ml/data science events in dublin
