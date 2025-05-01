@@ -41,7 +41,7 @@
 		</tr>
 		<tr>
 			<td><b>Kaggle Competitions</b></td>
-			<td>Entered and have notebooks for many kaggle competitons using my reprodicible research template</td>
+			<td>Entered and have notebooks for many kaggle competitons using my reprodicible research template <a href="https://github.com/butlerc9/Kaggle_S5E4"><b>Example</b></a></td>
 			<td>Python</td>
 		</tr>
 	</tbody>
