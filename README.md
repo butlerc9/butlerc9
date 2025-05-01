@@ -36,7 +36,7 @@
 		</tr>
 		<tr>
 			<td><a href="https://github.com/butlerc9/ising-model-sudoku-simulation"><b>Simulated Annealing of Sudoku and Ferromagnets</b></a></td>
-			<td>A project I did for college which ended up becoming the course final end-of-year cirriculum project (As reflected by the yearly spikes and clones of the repo). Reach out with any Qs!</td>
+			<td>A project I did for college which ended up becoming the course final end-of-year cirriculum project (as reflected by the yearly spikes and clones of the repo). Reach out with any Qs!</td>
 			<td>Python</td>
 		</tr>
 		<tr>
